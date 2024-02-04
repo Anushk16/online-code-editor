@@ -1,6 +1,6 @@
 # 🧑‍💻 Online Code Editor (3 Languages)
 
-Here is the [LIVE Deployed Link](https://opeditor.vercel.app/) of the IDE
+Here is the [LIVE Deployed Link](https://anushk-code-editor-mocha.vercel.app/) of the IDE
 
 ## Built with...
 
