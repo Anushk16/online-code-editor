@@ -82,7 +82,7 @@ function App() {
           <span className='text-green-500 font-bold '>Online Code IDE</span>
         </h1>
         <a
-          href='https://github.com/dipayansarkar47/online-code-editor'
+          href='https://github.com/Anushk16/online-code-editor/tree/main'
           className='ml-auto gap-1 text-xl bg-black text-white px-2 py-1 rounded flex justify-end items-center'
           target='_blank'
           rel='noreferrer'
